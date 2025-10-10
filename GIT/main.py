@@ -1,4 +1,4 @@
-from tracker import add_workout, view_workouts, view_summary
+from tracker import add_workout, view_all_workouts, view_summary
 
 def main():
     while True:
@@ -13,7 +13,7 @@ def main():
         if choice == '1':
             add_workout()
         elif choice == '2':
-            view_workouts()
+            view_all_workouts()
         elif choice == '3':
             view_summary()
         elif choice == '4':
