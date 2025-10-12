@@ -5,3 +5,4 @@ ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 5,FIX,800d25b,closed,Fixing Main,Abdul,Abdul,10/12/2025,10/12/2025,10/12/2025,
 6,TRACKER.PY,b6733bb,closed,TRACKER.PY,Abdul,Ryan,10/12/2025,10/12/2025,10/12/2025,
 7,FIX,b179825,closed,Fixing Tracker,Abdul,Abdul,10/12/2025,10/12/2025,10/12/2025,
+8,FIX,e8c74ab,closed,Added menu loop and input validation to tracker.py,Shahnaj,Shahnaj,10/12/2025,10/12/2025,10/12/2025
